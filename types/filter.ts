@@ -1,0 +1,1 @@
+export type Filter = "All" | "To Do" | "Done";
